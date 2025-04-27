@@ -1,0 +1,60 @@
+{
+  "..\\node_modules\\@supabase\\auth-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\@supabase\\auth-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\functions-js\\dist\\module\\helper.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\@supabase\\functions-js\\dist\\module\\helper.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> ws": {
+    "id": "..\\node_modules\\@supabase\\realtime-js\\dist\\module\\RealtimeClient.js -> ws",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_ws_browser_js.js"
+    ]
+  },
+  "..\\node_modules\\@supabase\\storage-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch": {
+    "id": "..\\node_modules\\@supabase\\storage-js\\dist\\module\\lib\\helpers.js -> @supabase/node-fetch",
+    "files": []
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @components/Loader": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @components/Loader",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_Loader_jsx.js"
+    ]
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizChart": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizChart",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_quiz_Components_QuizChart_js.js"
+    ]
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizConfig": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizConfig",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_quiz_Components_QuizConfig_js.js"
+    ]
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizStats": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/QuizStats",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_quiz_Components_QuizStats_js.js"
+    ]
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/Results": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/Results",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_quiz_Components_Results_js.js"
+    ]
+  },
+  "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/ShowQuestions": {
+    "id": "app\\(pages)\\quizzes\\page.jsx -> @quizComponents/ShowQuestions",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app__components_quiz_Components_ShowQuestions_js.js"
+    ]
+  }
+}
