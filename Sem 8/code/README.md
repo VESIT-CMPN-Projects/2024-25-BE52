@@ -1,6 +1,6 @@
-# Vidyagram ✨
+# Smartlearn ✨
 
-Welcome to **Vidyagram**! This project is built using **Next.js** with support for modern web features like authentication, state management, and page-based routing. Below you'll find all the information you need to get started with this project.
+Welcome to **Smartlearn**! This project is built using **Next.js** with support for modern web features like authentication, state management, and page-based routing. Below you'll find all the information you need to get started with this project.
 
 ## Table of Contents
 
